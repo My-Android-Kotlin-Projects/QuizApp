@@ -5,7 +5,6 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.imePadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
@@ -17,8 +16,6 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.toRoute
-import androidx.room.Room
-import com.example.quizapp.db.UserDatabase
 import com.example.quizapp.pages.CategoriesPage
 import com.example.quizapp.pages.QuizPage
 import com.example.quizapp.pages.ResultPage
@@ -77,7 +74,7 @@ fun Navigation(modifier: Modifier = Modifier, viewModel: UserViewModel) {
             QuizPage(
                 modifier = modifier,
                 category = it.toRoute<Routes.QuizScreen>().category,
-                navController
+                navController = navController,
             )
         }
         composable<Routes.ResultScreen> {

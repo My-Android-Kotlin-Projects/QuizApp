@@ -1,0 +1,525 @@
+[
+  {
+    "id": 1,
+    "title": "Toplama",
+    "subtitle": "Temel Toplama",
+    "time": "0.5",
+    "questionList": [
+      {
+        "question": "3+2 kaçtır?",
+        "options": ["4", "5", "6", "7"],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "4+3 kaçtır?",
+        "options": ["6", "7", "5", "8"],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "5+8 kaçtır?",
+        "options": ["12", "13", "14", "11"],
+        "correctAnswer": "13"
+      },
+      {
+        "question": "6+6 kaçtır?",
+        "options": ["11", "12", "13", "14"],
+        "correctAnswer": "12"
+      },
+      {
+        "question": "2+7 kaçtır?",
+        "options": ["8", "9", "6", "10"],
+        "correctAnswer": "9"
+      },
+      {
+        "question": "4+9 kaçtır?",
+        "options": ["14", "15", "16", "13"],
+        "correctAnswer": "13"
+      },
+      {
+        "question": "7+8 kaçtır?",
+        "options": ["14", "15", "16", "13"],
+        "correctAnswer": "15"
+      },
+      {
+        "question": "3+4 kaçtır?",
+        "options": ["5", "7", "8", "6"],
+        "correctAnswer": "7"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Çıkarma",
+    "subtitle": "Temel Çıkarma",
+    "time": "5",
+    "questionList": [
+      {
+        "question": "8-3 kaçtır?",
+        "options": ["5", "6", "4", "3"],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "7-4 kaçtır?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "9-2 kaçtır?",
+        "options": ["6", "7", "5", "8"],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "12-5 kaçtır?",
+        "options": ["7", "8", "9", "6"],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "15-8 kaçtır?",
+        "options": ["7", "6", "8", "9"],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "10-3 kaçtır?",
+        "options": ["7", "6", "8", "5"],
+        "correctAnswer": "7"
+      }
+    ]
+  },
+ {
+  "id": 1,
+  "title": "Çarpma",
+  "subtitle": "3'ler, 4'ler, 5'ler, 6'lar, 7'ler, 8'ler, 9'lar, 10'lar",
+  "time": "2",
+  "questionList": [
+    {
+      "question": "7x5=?",
+      "options": [
+        "25",
+        "40",
+        "35",
+        "30"
+      ],
+      "correctAnswer": "35"
+    },
+    {
+      "question": "5x9=?",
+      "options": [
+        "55",
+        "45",
+        "50",
+        "60"
+      ],
+      "correctAnswer": "45"
+    },
+    {
+      "question": "3x4=?",
+      "options": [
+        "14",
+        "12",
+        "10",
+        "11"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "8x6=?",
+      "options": [
+        "52",
+        "48",
+        "50",
+        "55"
+      ],
+      "correctAnswer": "48"
+    },
+    {
+      "question": "4x9=?",
+      "options": [
+        "40",
+        "35",
+        "38",
+        "36"
+      ],
+      "correctAnswer": "36"
+    },
+    {
+      "question": "10x7=?",
+      "options": [
+        "75",
+        "80",
+        "70",
+        "85"
+      ],
+      "correctAnswer": "70"
+    },
+    {
+      "question": "9x3=?",
+      "options": [
+        "33",
+        "24",
+        "30",
+        "27"
+      ],
+      "correctAnswer": "27"
+    },
+    {
+      "question": "6x8=?",
+      "options": [
+        "56",
+        "48",
+        "55",
+        "52"
+      ],
+      "correctAnswer": "48"
+    },
+    {
+      "question": "7x9=?",
+      "options": [
+        "72",
+        "66",
+        "63",
+        "65"
+      ],
+      "correctAnswer": "63"
+    },
+    {
+      "question": "5x7=?",
+      "options": [
+        "50",
+        "40",
+        "45",
+        "35"
+      ],
+      "correctAnswer": "35"
+    },
+    {
+      "question": "9x5=?",
+      "options": [
+        "55",
+        "50",
+        "45",
+        "60"
+      ],
+      "correctAnswer": "45"
+    },
+    {
+      "question": "6x4=?",
+      "options": [
+        "26",
+        "20",
+        "22",
+        "24"
+      ],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "3x8=?",
+      "options": [
+        "24",
+        "28",
+        "22",
+        "26"
+      ],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "4x6=?",
+      "options": [
+        "24",
+        "28",
+        "22",
+        "20"
+      ],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "10x3=?",
+      "options": [
+        "33",
+        "28",
+        "32",
+        "30"
+      ],
+      "correctAnswer": "30"
+    },
+    {
+      "question": "8x9=?",
+      "options": [
+        "72",
+        "70",
+        "74",
+        "75"
+      ],
+      "correctAnswer": "72"
+    },
+    {
+      "question": "5x3=?",
+      "options": [
+        "18",
+        "16",
+        "15",
+        "14"
+      ],
+      "correctAnswer": "15"
+    },
+    {
+      "question": "6x9=?",
+      "options": [
+        "54",
+        "60",
+        "56",
+        "55"
+      ],
+      "correctAnswer": "54"
+    },
+    {
+      "question": "9x8=?",
+      "options": [
+        "72",
+        "70",
+        "74",
+        "78"
+      ],
+      "correctAnswer": "72"
+    },
+    {
+      "question": "3x6=?",
+      "options": [
+        "22",
+        "20",
+        "17",
+        "18"
+      ],
+      "correctAnswer": "18"
+    },
+    {
+      "question": "7x10=?",
+      "options": [
+        "80",
+        "75",
+        "70",
+        "60"
+      ],
+      "correctAnswer": "70"
+    },
+    {
+      "question": "4x3=?",
+      "options": [
+        "11",
+        "12",
+        "14",
+        "15"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "5x8=?",
+      "options": [
+        "42",
+        "38",
+        "45",
+        "40"
+      ],
+      "correctAnswer": "40"
+    },
+    {
+      "question": "6x5=?",
+      "options": [
+        "32",
+        "35",
+        "28",
+        "30"
+      ],
+      "correctAnswer": "30"
+    },
+    {
+      "question": "8x4=?",
+      "options": [
+        "34",
+        "32",
+        "36",
+        "30"
+      ],
+      "correctAnswer": "32"
+    },
+    {
+      "question": "10x5=?",
+      "options": [
+        "45",
+        "60",
+        "50",
+        "55"
+      ],
+      "correctAnswer": "50"
+    },
+    {
+      "question": "9x4=?",
+      "options": [
+        "36",
+        "38",
+        "40",
+        "37"
+      ],
+      "correctAnswer": "36"
+    },
+    {
+      "question": "6x7=?",
+      "options": [
+        "45",
+        "42",
+        "40",
+        "48"
+      ],
+      "correctAnswer": "42"
+    },
+    {
+      "question": "7x8=?",
+      "options": [
+        "58",
+        "60",
+        "55",
+        "56"
+      ],
+      "correctAnswer": "56"
+    },
+    {
+      "question": "8x7=?",
+      "options": [
+        "55",
+        "56",
+        "58",
+        "60"
+      ],
+      "correctAnswer": "56"
+    },
+    {
+      "question": "4x5=?",
+      "options": [
+        "23",
+        "25",
+        "20",
+        "22"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "question": "10x8=?",
+      "options": [
+        "90",
+        "80",
+        "85",
+        "100"
+      ],
+      "correctAnswer": "80"
+    },
+    {
+      "question": "7x6=?",
+      "options": [
+        "45",
+        "40",
+        "42",
+        "44"
+      ],
+      "correctAnswer": "42"
+    },
+    {
+      "question": "6x3=?",
+      "options": [
+        "17",
+        "18",
+        "20",
+        "16"
+      ],
+      "correctAnswer": "18"
+    },
+    {
+      "question": "9x6=?",
+      "options": [
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "correctAnswer": "54"
+    },
+    {
+      "question": "10x4=?",
+      "options": [
+        "45",
+        "35",
+        "40",
+        "50"
+      ],
+      "correctAnswer": "40"
+    }
+  ]
+},
+
+  {
+    "id": 4,
+    "title": "Karışık",
+    "subtitle": "Toplama, Çıkarma, Çarpma",
+    "time": "6",
+    "questionList": [
+      {
+        "question": "4+5 kaçtır?",
+        "options": ["10", "9", "11", "12"],
+        "correctAnswer": "9"
+      },
+      {
+        "question": "7-2 kaçtır?",
+        "options": ["5", "6", "4", "3"],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "3x3 kaçtır?",
+        "options": ["9", "8", "7", "10"],
+        "correctAnswer": "9"
+      },
+      {
+        "question": "6x4 kaçtır?",
+        "options": ["24", "25", "22", "23"],
+        "correctAnswer": "24"
+      },
+      {
+        "question": "8-4 kaçtır?",
+        "options": ["5", "4", "3", "6"],
+        "correctAnswer": "4"
+      },
+      {
+        "question": "5+7 kaçtır?",
+        "options": ["13", "14", "15", "12"],
+        "correctAnswer": "12"
+      },
+      {
+        "question": "9x2 kaçtır?",
+        "options": ["19", "18", "17", "16"],
+        "correctAnswer": "18"
+      },
+      {
+        "question": "10-6 kaçtır?",
+        "options": ["4", "5", "6", "3"],
+        "correctAnswer": "4"
+      },
+      {
+        "question": "3+6 kaçtır?",
+        "options": ["9", "10", "8", "7"],
+        "correctAnswer": "9"
+      },
+      {
+        "question": "12-7 kaçtır?",
+        "options": ["5", "6", "4", "3"],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "4x5 kaçtır?",
+        "options": ["20", "21", "19", "22"],
+        "correctAnswer": "20"
+      },
+      {
+        "question": "6x8 kaçtır?",
+        "options": ["48", "46", "47", "45"],
+        "correctAnswer": "48"
+      }
+    ]
+  }
+]
